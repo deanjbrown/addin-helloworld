@@ -8,7 +8,7 @@ Created to test the installation of Geotab Add-ins.
 	"version": "1.0",
 	"items": [
 		{
-    	  "url": "https://cdn.jsdelivr.net/gh/deanjbrown/addin-helloworld@master/index.html",
+    	  "url": "https://cdn.jsdelivr.net/gh/deanjbrown/addin-helloworld@master/hello-world.html",
 		  "path": "AdministrationLink/",
 			"menuName": {
 				"en": "Hello World Addin"
